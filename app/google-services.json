@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605483682553",
+    "firebase_url": "https://lennipatimaharahap1202154359mo.firebaseio.com",
+    "project_id": "lennipatimaharahap1202154359mo",
+    "storage_bucket": "lennipatimaharahap1202154359mo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605483682553:android:c4f85a04b62aa7b4",
+        "android_client_info": {
+          "package_name": "com.example.lennipatimaharahap.lennipatimaharahap_1202154359_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605483682553-c1j6maoqk1310vrbkk612ejtaoq498se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lennipatimaharahap.lennipatimaharahap_1202154359_modul6",
+            "certificate_hash": "61591056211abaee2d422b6bc8f608e605477e0c"
+          }
+        },
+        {
+          "client_id": "605483682553-2a6kf4qnaj4aceqkbs6ijsll44bsre12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeNhWKLxv4pXkTqNmRNhIY_6l21BKaDSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605483682553-2a6kf4qnaj4aceqkbs6ijsll44bsre12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
